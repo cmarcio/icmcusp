@@ -1,0 +1,12 @@
+Add
+Edit
+Delete
+Rename
+Status
+Diff
+Revert
+Log
+Tag
+Branch
+Merge
+Resolve
